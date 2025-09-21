@@ -8,7 +8,7 @@ st.set_page_config(
     page_icon="🖼️",
     layout="wide"
 )
-API_BASE_URL = "https://YOUR_APP_NAME.leapcell.dev"
+API_BASE_URL = "https://generate-image-with-user-key-koyy20262733-h775npmi.apn.leapcell.dev/"
 
 
 st.title("🎨 FLUX 多模型 AI 圖像生成器 (自訂金鑰)")
